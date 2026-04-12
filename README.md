@@ -29,8 +29,8 @@ Axis XYZ-Sigma is a high-performance, strategic operating system interface desig
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/omni-core-v4.git
-   cd omni-core-v4
+   git clone https://github.com/your-username/AxisXYZ--.git
+   cd AxizXYZ--
    ```
 
 2. **Install dependencies:**
